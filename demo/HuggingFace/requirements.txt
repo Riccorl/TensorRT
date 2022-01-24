@@ -14,12 +14,14 @@
 # limitations under the License.
 #
 
-transformers==4.6.1
+transformers==4.15
 tabulate
 toml
 torch
-sentencepiece==0.1.95
+sentencepiece
 --extra-index-url https://pypi.ngc.nvidia.com
-onnx==1.9.0
+onnx==1.10.2
 onnx_graphsurgeon
 polygraphy
+nvidia-pyindex
+nvidia-tensorrt

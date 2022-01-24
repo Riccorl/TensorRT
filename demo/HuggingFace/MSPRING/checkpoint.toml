@@ -1,0 +1,32 @@
+# Default requirements
+[MT5.all.default.translate_a]
+
+input = '''
+In a shocking finding, scientist discovered a herd of unicorns living in a remote, previously unexplored valley, in the Andes Mountains.
+'''
+
+label = "Das ist gut."
+
+[MT5.all.default.translate_b]
+
+input = '''
+Emily loves mint chocolate cake, but she requires that it be paired with mini chocolate chips, so I threw some of those in between the layers.
+'''
+
+label = "Das ist gut."
+
+[MT5.all.default.translate_c]
+
+input = '''
+Prehistoric man sketched an incredible array of prehistoric beasts on the rough limestone walls of a cave in modern day France 36,000 years ago.
+'''
+
+label = "Das ist gut."
+
+[MT5.all.default.translate_d]
+
+input = '''
+Corporal Michael P. Goeldin was an unskilled laborer from Ireland when he enlisted in Company A in November 1860.
+'''
+
+label = "Das ist gut."
